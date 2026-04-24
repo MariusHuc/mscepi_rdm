@@ -25,6 +25,8 @@ library(skimr)
 # Load and clean the village data #
 ###################################
 
+#comment for test GitHub
+
 raw_village_df <- readr::read_csv("../data/village info.csv",
                                   show_col_types = FALSE)
 
