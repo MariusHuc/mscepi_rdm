@@ -26,7 +26,7 @@ library(skimr)
 ###################################
 
 #comment for test GitHub
-#second comment test
+
 
 raw_village_df <- readr::read_csv("../data/village info.csv",
                                   show_col_types = FALSE)
